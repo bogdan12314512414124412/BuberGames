@@ -1,0 +1,27 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+[IDE files]
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+[User settings]
+UserSettings/
+*.pidb
+
+[Unity packages]
+*.unitypackage
+
+[Mac]
+.DS_Store
+
+[JetBrains Rider]
+.idea/і
